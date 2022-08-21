@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <h1>Hello UdaY THHRE!</h1>
+      <h1>Hello UdaY THHRE! THIS IS THE FIRST PROJECT TEST</h1>
       <p>Start editing to see some magic happen :)</p>
     </div>
   );
